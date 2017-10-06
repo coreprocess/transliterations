@@ -18,6 +18,11 @@
     "no-bitwise": 0,
     "no-plusplus": 0,
     "no-useless-escape": 0,
-    "import/no-named-default": 0
+    "import/no-named-default": 0,
+    "prefer-destructuring": 0,
+    "function-paren-newline": 0,
+    "no-console": 0,
+    "no-restricted-globals": 0,
+    "object-curly-newline": 0
   }
 }
