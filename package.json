@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/core-process/transliterations.git"
+    "url": "https://github.com/coreprocess/transliterations.git"
   },
   "keywords": [
     "transliterate",
@@ -39,7 +39,7 @@
   "author": "Andy Hu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/core-process/transliterations/issues"
+    "url": "https://github.com/coreprocess/transliterations/issues"
   },
   "engines": {
     "node": ">=6.0.0"

@@ -2,8 +2,8 @@
 
 [![NPM Version](https://img.shields.io/npm/v/transliterations.svg)](https://www.npmjs.com/package/transliterations)
 [![NPM Download](https://img.shields.io/npm/dm/transliterations.svg)](https://www.npmjs.com/package/transliterations)
-[![License](https://img.shields.io/npm/l/transliterations.svg)](https://github.com/core-processs/transliterations/blob/master/LICENSE.txt)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/core-processs/transliterations)
+[![License](https://img.shields.io/npm/l/transliterations.svg)](https://github.com/coreprocesss/transliterations/blob/master/LICENSE.txt)
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/coreprocesss/transliterations)
 
 Transliteration / slugify module for node.js, browser, Web Worker, ReactNative and CLI. It provides the ability to transliterate UTF-8 characters into corresponding pure ASCII; so they can be safely displayed, used as URL slugs or file names.
 
